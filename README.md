@@ -29,7 +29,6 @@
 ### :fire: Minhas estatísticas do GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theastro1&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theastro1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
    
    <h3 align="left">Suporte:</h3>
 <p><a href="https://ko-fi.com/theastro01"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="theastro01" /></a></p><br><br>
